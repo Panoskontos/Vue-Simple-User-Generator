@@ -1,0 +1,20 @@
+body {
+    background-color: antiquewhite;
+}
+
+
+img {
+    border-radius: 50%;
+}
+
+.male{
+    border:6px solid slateblue;
+    background-color: slateblue;
+    color: white;
+}
+
+.female {
+    border:6px solid pink;
+    background-color: pink;
+    color: white;
+}
